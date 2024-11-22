@@ -1,6 +1,6 @@
 # **Redes de Sensores Sem Fio para Agricultura Inteligente com LoRa e LoRaWAN**  
 
-Este repositório foi criado para organizar os trabalhos desenvolvidos durante minha **Iniciação Científica** na **Universidade Federal de Pernambuco (UFPE)**. O projeto é orientado pelo professor **José Rodrigues de Oliveira Neto** e faz parte das atividades do **Grupo de Processamento Digital de Sinais (DSP Group)**, disponível no [site oficial](https://sites.ufpe.br/dspgroup/).  
+Este repositório foi criado para organizar os trabalhos desenvolvidos durante minha **Iniciação Científica** na **Universidade Federal de Pernambuco (UFPE)**. O projeto é orientado pelo professor **José Rodrigues de Oliveira Neto** e faz parte das minhas atividades como aluno de graduação e pesquisador no **Grupo de Processamento Digital de Sinais (DSP Group)**, disponível no [site oficial](https://sites.ufpe.br/dspgroup/).  
 
 ---
 
