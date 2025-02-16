@@ -1,5 +1,5 @@
 
-# 📡 Testes de Alcance da Comunicação LoRa
+# 📡 Testes de Alcance da Comunicação LoRa DIA: 14/02/2025
 
 Realizamos testes para avaliar o alcance da comunicação entre os módulos LoRa em diferentes ambientes. Os testes consistiram no envio de comandos para acionamento de LED e no recebimento de dados de sensores.
 
